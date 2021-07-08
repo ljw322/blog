@@ -2,7 +2,7 @@
 title: "자바스크립트 비동기"
 tags: ["callback", "promise"]
 date_created: "2020-09-28"
-date_modified: "2021-05-28"
+date_modified: "2021-07-08"
 ---
 
 # 자바스크립트와 비동기

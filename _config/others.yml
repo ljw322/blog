@@ -1,6 +1,6 @@
 title: Reinventing the Wheel
 subtitle: Wheel's Development Blog
-baseurl: ""
+baseurl: "blog"
 timezone: Asia/Seoul
 plugins:
   - jekyll-sitemap
